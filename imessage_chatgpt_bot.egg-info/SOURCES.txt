@@ -1,6 +1,0 @@
-setup.py
-imessage_chatgpt_bot.egg-info/PKG-INFO
-imessage_chatgpt_bot.egg-info/SOURCES.txt
-imessage_chatgpt_bot.egg-info/dependency_links.txt
-imessage_chatgpt_bot.egg-info/requires.txt
-imessage_chatgpt_bot.egg-info/top_level.txt
